@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohammedumairs6" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedumairs6?logo=twitter&style=for-the-badge" alt="mohammedumairs6" /></a> </p>
 
-- 🔭 I’m currently working on [a Chatbot](https://github.com/umair986/GenAI)
+- 🔭 I’m currently working on [a Chatbot](https://github.com/umair986/Gen_AI)
 
 - 🌱 I’m currently learning **NextJs , MongoDB , ExpressJs**
 
